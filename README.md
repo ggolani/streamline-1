@@ -1,5 +1,5 @@
-# Streamline
-Stream Processing and Analytics.
+# Hortonworks Streaming Analytics Manager
+UI interface to develop and deploy Streaming Analytics applications to run on stream processing cluster with support for multiple source/sinks, rich set of streaming operators and operational lifecycle management.
 
 ##How to run locally
 From command line execute the following commands:
